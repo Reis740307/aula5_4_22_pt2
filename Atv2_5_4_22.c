@@ -16,13 +16,13 @@ int main(){
 		
 	}
 	
-	if (valor1 > valor2){
+	else if (valor1 > valor2){
 		
 		printf("\nValor1 (%i) e maior que Valor2 (%i)", valor1, valor2);
 		
 	}
 	
-	if (valor1 == valor2){
+	else{
 		
 		printf("\nValor1 (%i) e igual ao Valor2 (%i)", valor1, valor2);
 		
